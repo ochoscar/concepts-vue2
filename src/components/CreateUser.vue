@@ -4,8 +4,8 @@
     align-center
   >
     <v-flex xs12 sm8 md6 lg5 xl4>
-      <v-card>
-        <v-toolbar>
+      <v-card class="elevation-12">
+        <v-toolbar color="primary" dark card>
           <v-toolbar-title>
             Sign Up
           </v-toolbar-title>
